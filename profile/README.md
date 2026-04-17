@@ -30,9 +30,17 @@ Adaptive Intelligence LAB is an independent research collective focused on advan
 
 ---
 
+## 📂 Work
+
+- 🔗 
+
+---
+
 ## 🌐 Connect
 
-- 🔗 GitHub: https://github.com/adaptive-intelligence-laboratory  
+- 🔗 GitHub: https://github.com/adaptive-intelligence-laboratory
+<!-- - 🔗 Kaggle: *(add your link here)*  
+- 🔗 LinkedIn: *(add your lab page link here)*  -->
 
 ---
 
