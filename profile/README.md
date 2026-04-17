@@ -12,20 +12,20 @@ Based in India.
 
 ## 🔬 Research Areas
 
-- 🚀 Meta-learning & optimization-centric learning
-- 🤖 AI assistants, agents, and conversational systems
-- 🔍 Explainable & interpretable AI
-- 📊 Few-shot and continual learning   
-- 🧭 Human-aligned and next-generation AI systems  
-- 🌍 Bridging theory, systems, and real-world deployment  
+- Meta-learning & optimization-centric learning
+- AI assistants, agents, and conversational systems
+- Explainable & interpretable AI
+- Few-shot and continual learning   
+- Human-aligned and next-generation AI systems  
+- Bridging theory, systems, and real-world deployment  
 
 ---
 
 ## 🎯 Research Philosophy
 
-- 🧠 Understanding how and why models learn  
-- ⚡ Designing systems that adapt with limited data  
-- 🛠️ Building AI that is transparent, controllable, and practical  
+- Understanding how and why models learn  
+- Designing systems that adapt with limited data  
+- Building AI that is transparent, controllable, and practical  
 
 ---
 
