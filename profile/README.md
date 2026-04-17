@@ -6,37 +6,37 @@ Adaptive Intelligence LAB is an independent research collective focused on advan
 
 ## 🔬 Research Areas
 
-🚀 Meta-learning & optimization-centric learning
-📊 Few-shot and continual learning
-🤖 AI assistants, agents, and conversational systems
-🔍 Explainable & interpretable AI
-🧭 Human-aligned and next-generation AI systems
-🌍 Bridging theory, systems, and real-world deployment
+- 🚀 Meta-learning & optimization-centric learning  
+- 📊 Few-shot and continual learning  
+- 🤖 AI assistants, agents, and conversational systems  
+- 🔍 Explainable & interpretable AI  
+- 🧭 Human-aligned and next-generation AI systems  
+- 🌍 Bridging theory, systems, and real-world deployment  
 
 ---
 
 ## 🎯 Research Philosophy
 
-🧠 Understanding how and why models learn
-⚡ Designing learning systems that adapt with limited data
-🛠️ Building AI that is transparent, controllable, and useful in practice
+- 🧠 Understanding how and why models learn  
+- ⚡ Designing systems that adapt with limited data  
+- 🛠️ Building AI that is transparent, controllable, and practical  
 
 ---
 
 ## 👨‍💻 Members
 
-* **Sayan Kumar Bhowmick**
-* Collaborators, mentors, and research contributors
+- **Sayan Kumar Bhowmick**  
+- Collaborators, mentors, and research contributors  
 
 ---
 
 ## 🌐 Connect
 
-🔗 https://github.com/adaptive-intelligence-laboratory
+- 🔗 GitHub: https://github.com/adaptive-intelligence-laboratory  
 
 ---
 
 ## ⚠️ Note
 
-This is an independent research initiative.
+This is an independent research initiative.  
 Affiliations mentioned in individual projects correspond to respective authors and institutions.
