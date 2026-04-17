@@ -1,3 +1,6 @@
+
+
+
 # 🧠 Adaptive Intelligence LAB
 
 Adaptive Intelligence LAB is an independent research collective focused on advancing adaptive, efficient, and explainable intelligence systems beyond conventional model-centric deep learning.
