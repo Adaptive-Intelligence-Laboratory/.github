@@ -6,10 +6,10 @@ Adaptive Intelligence LAB is an independent research collective focused on advan
 
 ## 🔬 Research Areas
 
-- 🚀 Meta-learning & optimization-centric learning  
-- 📊 Few-shot and continual learning  
-- 🤖 AI assistants, agents, and conversational systems  
-- 🔍 Explainable & interpretable AI  
+- 🚀 Meta-learning & optimization-centric learning
+- 🤖 AI assistants, agents, and conversational systems
+- 🔍 Explainable & interpretable AI
+- 📊 Few-shot and continual learning   
 - 🧭 Human-aligned and next-generation AI systems  
 - 🌍 Bridging theory, systems, and real-world deployment  
 
@@ -25,9 +25,17 @@ Adaptive Intelligence LAB is an independent research collective focused on advan
 
 ## 👨‍💻 Members
 
-- **Sayan Kumar Bhowmick**  
-- Collaborators, mentors, and research contributors  
+### 🧭 Advisory
 
+- **Asit Barman** — Lead Research Advisor  
+
+### 🧠 Research
+
+- **Sayan Kumar Bhowmick** — Founder & Research Lead  
+- **Soham Sarkar** — Research Associate
+
+- Collaborators and research contributors
+  
 ---
 
 ## 📂 Work
