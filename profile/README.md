@@ -1,5 +1,4 @@
-
-
+![AI Lab Banner](top_banner.jpg)
 
 # 🧠 Adaptive Intelligence LAB
 
@@ -30,7 +29,7 @@ Adaptive Intelligence LAB is an independent research collective focused on advan
 
 ### 🧭 Advisory
 
-- **Asit Barman** — Lead Research Advisor  
+- **Dr. Asit Barman** — Lead Research Advisor  
 
 ### 🧠 Research
 
