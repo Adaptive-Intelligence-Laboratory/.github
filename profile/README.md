@@ -5,6 +5,7 @@
 Adaptive Intelligence LAB is an independent research collective focused on advancing adaptive, efficient, and explainable intelligence systems beyond conventional model-centric deep learning.
 
 Focused on Explainable AI, Meta-learning, and Trustworthy AI systems.
+
 Based in India.
 
 ---
